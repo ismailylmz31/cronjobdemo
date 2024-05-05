@@ -22,5 +22,6 @@ public class ReceiverController {
         if (!isAppRunning) {
             System.out.println("Uygulama ayakta değil!");
         }
+        System.out.println("çalışıyorum");
     }
 }
