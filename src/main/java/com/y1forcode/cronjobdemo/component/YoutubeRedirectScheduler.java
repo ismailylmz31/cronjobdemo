@@ -17,9 +17,9 @@ import java.util.Random;
 public class YoutubeRedirectScheduler {
 
     private final List<String> youtubeLinks = Arrays.asList(
-            "https://www.youtube.com/watch?v=dQw4w9WgXcQ", // Rickroll :)
-            "https://www.youtube.com/watch?v=VgSMxY6asoE", // Cats
-            "https://www.youtube.com/watch?v=OK3GJ0WIQ8s"  // Music
+            "https://www.youtube.com/watch?v=Fl6AscbWEUE", // Rickroll :)
+            "https://www.youtube.com/watch?v=NZ-Rw2vDJhs", // Cats
+            "https://www.youtube.com/watch?v=V-sivPFfQn4"  // Music
             // Diğer YouTube linklerini buraya ekleyebilirsiniz
     );
 
